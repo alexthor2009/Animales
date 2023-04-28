@@ -1,0 +1,23 @@
+body
+{
+    
+    background-color: rgb(126, 168, 83);
+    text-align: center; 
+
+}
+
+#heading{
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+}
+.warning{
+    background-color: gold;
+    color: white;
+    font-size: 18px;
+    height: 35px;
+    padding: 5px;
+    border-radius:15px;
+    width: 200px;
+    
+}
